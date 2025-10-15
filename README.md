@@ -1,8 +1,11 @@
-### Hi there, I'm Jay 👋
+### Hi, I’m Jay 👋
 
-#### I make fast, secure, scalable sites and applications.
+**CTO and co-founder at [Session Services](https://session.services)**  
+The engine for unforgettable events.
 
-- 👨‍💻 Self-taught software engineer with over a decade of professional experience.
-- 🚀 Demonstrated history of working on large scale projects.
-- 🔥 Skilled and passionate about all the latest web development trends & technology.
-- 📫 How to reach me: [j@1f.io](mailto:j@1f.io)
+#### What I’m building
+Session Services is a fully white-label event ticketing platform with an open API built for developers.  
+Think Stripe or Shopify for event ticketing.
+
+#### Get in touch
+- Email: [jay@session.services](mailto:jay@session.services)
